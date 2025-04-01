@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/matthewmaron/github/MoDELib2",
+	"sourceRoot": "/home/anon/Documents/Research/Organizations/MoDELib2.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
