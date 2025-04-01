@@ -30,7 +30,6 @@ defaults:
 jobs:
   # Build job
   build:
-    needs: fetch-publications
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.145.0
