@@ -1,10 +1,10 @@
-baseURL = 'https://MoDELib2.github.io/MoDELib2.github.io/'
+baseURL = 'https://MoDELib2.github.io/'
 languageCode = 'en-us'
 title = 'MoDELib2'
 theme = "ananke"
 
 [params]
-  background = "/images/straight_lines.jpeg"
+  background = "/static/images/straight_lines.jpeg"
 
 [menu]
 
